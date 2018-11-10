@@ -1,0 +1,14 @@
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.Form1.resources
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.Properties.Resources.resources
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.csproj.GenerateResource.cache
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.csproj.CoreCompileInputs.cache
+C:\Users\3ctko\source\repos\Position\Position\bin\Debug\Position.exe.config
+C:\Users\3ctko\source\repos\Position\Position\bin\Debug\Position.exe
+C:\Users\3ctko\source\repos\Position\Position\bin\Debug\Position.pdb
+C:\Users\3ctko\source\repos\Position\Position\bin\Debug\MathNet.Numerics.dll
+C:\Users\3ctko\source\repos\Position\Position\bin\Debug\MathNet.Numerics.xml
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.csproj.CopyComplete
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.exe
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.pdb
+C:\Users\3ctko\source\repos\Position\Position\obj\Debug\Position.csprojAssemblyReference.cache
+C:\Users\3ctko\source\repos\Position\Position\bin\Debug\SimpleTCP.dll
