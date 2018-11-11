@@ -346,11 +346,11 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(49, 223);
+            this.label8.Location = new System.Drawing.Point(8, 226);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(38, 16);
+            this.label8.Size = new System.Drawing.Size(79, 16);
             this.label8.TabIndex = 17;
-            this.label8.Text = "Czas";
+            this.label8.Text = "Interval time";
             // 
             // X_CALIB
             // 
@@ -453,9 +453,9 @@
             this.Trilateration.AutoSize = true;
             this.Trilateration.Location = new System.Drawing.Point(183, 289);
             this.Trilateration.Name = "Trilateration";
-            this.Trilateration.Size = new System.Drawing.Size(148, 20);
+            this.Trilateration.Size = new System.Drawing.Size(151, 20);
             this.Trilateration.TabIndex = 28;
-            this.Trilateration.Text = "Trilateracja ON/OFF";
+            this.Trilateration.Text = "Trilateration ON/OFF";
             this.Trilateration.UseVisualStyleBackColor = true;
             // 
             // Anchor_measurement
@@ -463,9 +463,9 @@
             this.Anchor_measurement.AutoSize = true;
             this.Anchor_measurement.Location = new System.Drawing.Point(183, 317);
             this.Anchor_measurement.Name = "Anchor_measurement";
-            this.Anchor_measurement.Size = new System.Drawing.Size(167, 20);
+            this.Anchor_measurement.Size = new System.Drawing.Size(203, 20);
             this.Anchor_measurement.TabIndex = 29;
-            this.Anchor_measurement.Text = "Tryb Pomiaru Anchor_1";
+            this.Anchor_measurement.Text = "Only Anchor 1 measure mode";
             this.Anchor_measurement.UseVisualStyleBackColor = true;
             // 
             // textBox1
