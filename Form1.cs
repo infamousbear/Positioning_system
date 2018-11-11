@@ -127,8 +127,6 @@ namespace Position
                         check_ANCHOR_3 = 0;
                         check_TAG = 0;
                         ERROR = false;
-                        ERROR = true;
-                        ERROR = false;
                         if (Trilateration.Checked == true)
                         Pomiar();
                     }
